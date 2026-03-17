@@ -3,6 +3,13 @@ category: Lifestyle
 id: thought-experiment-design
 name: thought-experiment-design
 description: Construct, analyze, and evaluate philosophical thought experiments to test intuitions, reveal conceptual commitments, and probe theoretical implications.
+requires: [Read, Write, Bash]
+examples:
+  - Design a thought experiment that tests the doctrine of double effect
+  - Construct a scenario to probe our intuitions about personal identity
+  - Help me evaluate this thought experiment for hidden assumptions
+  - Create a minimal case that tests whether knowledge is justified true belief
+  - Develop a variant of the trolley problem that isolates consent
 allowed-tools:
   - Read
   - Write

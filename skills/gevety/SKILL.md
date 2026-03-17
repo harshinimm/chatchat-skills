@@ -13,7 +13,7 @@ examples:
   - Fetch my Gevety health data and highlight notable changes
   - Give me a snapshot of my key metrics and trends
 ---
-
+ou
 # Gevety Health Assistant
 
 Use the Gevety API to fetch biomarker and health data, then summarize trends.

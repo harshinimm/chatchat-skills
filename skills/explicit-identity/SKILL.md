@@ -3,7 +3,7 @@ category: Lifestyle
 id: explicit-identity
 name: explicit-identity
 description: Explicit Identity Across Boundaries.
-requires: []
+required: []
 examples:
   - How do I pass session ID when spawning a process?
   - Avoid "most recent session" race—use explicit identity

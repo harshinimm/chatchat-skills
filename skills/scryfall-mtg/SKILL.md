@@ -3,6 +3,16 @@ category: Lifestyle
 id: scryfall-mtg
 name: scryfall-mtg
 description: "Search and retrieve Magic: The Gathering card data using the Scryfall API. Use this skill when the user asks about MTG cards, wants to search for cards by name, type, color, mana cost, oracle text, set, or any other card attribute. Also use for getting card images, prices, rulings, legality information, or random cards. Triggers include mentions of MTG, Magic, Magic: The Gathering, card names, deck building questions, or requests for card information."
+requires: [Read, Bash]
+examples:
+  - Search for Lightning Bolt
+  - What's the price of Black Lotus?
+  - Find red creatures with power 3 or greater
+  - Get me a random dragon card
+  - Show me legendary merfolk
+  - Which cards from Dominaria have "draw a card" in the text?
+  - Is this card legal in Standard?
+  - Look up the rulings for Teferi's Protection
 ---
 
 # Scryfall MTG Card Search

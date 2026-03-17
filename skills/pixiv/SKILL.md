@@ -3,6 +3,16 @@ category: Lifestyle
 id: pixiv
 name: pixiv
 description: Access Pixiv for searching illustrations, manga, and viewing rankings. Supports searching by keyword and viewing daily/weekly/monthly rankings.
+requires: [Read, Bash]
+examples:
+  - Search Pixiv for vocaloid art
+  - Show me today's Pixiv rankings
+  - Find illustrations with keyword "landscape"
+  - Get my Pixiv feed from followed users
+  - Download this Pixiv illustration
+  - Post an image to Pixiv
+  - How do I get a Pixiv refresh token?
+  - Show weekly manga rankings on Pixiv
 ---
 
 # Pixiv Skill
